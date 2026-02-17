@@ -1,6 +1,4 @@
-# Recruitment-Automated-and-Dynamic-Parametrization-Stage-Movement-Report-
-Build Automated and Dynamic Parametrization Stage Movement Report to track candidate Skipped rate vs Followed rate and enhance process accuracy by 80%. 
-
+# Recruitment-Automated-and-Dynamic-Parametrization-Stage-Movement-Report-Built automated Stage Movement Report improving process accuracy by 80% and optimized file performance by cleaning excess data and converting to .XLSB.
 
 Why Stage Movement Tracking Report:  To monitor candidate progression across internal hiring stages, improving process transparency, identifying drop-offs, and enabling accurate turnaround time (TAT) analysis.
 
