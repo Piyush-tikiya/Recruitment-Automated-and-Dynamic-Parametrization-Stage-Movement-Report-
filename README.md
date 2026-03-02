@@ -1,8 +1,8 @@
 # Recruitment-Automated-and-Dynamic-Parametrization-Stage-Movement-Report
 
-*This Report is automated Stage Movement Report improving process accuracy by 80% and optimized file performance by cleaning excess data and converting to .XLSB.*
+*This Report shows how internally recruiters  managed and recrords the Candidate Journey by automatation which improved the  process accuracy by 80% and optimized file performance by cleaning excess data and converting to .XLSB.*
 
-*Why Stage Movement Tracking Report:  To monitor candidate progression across internal hiring stages, improving process transparency, identifying drop-offs, and enabling accurate turnaround time (TAT) analysis. Inshort: Trach each applicant stage movement each for company with respective action takers (Recruiters + Thrie Leads)*
+*Why Stage Movement Tracking Report:  To monitor candidate progression across internal hiring stages, improving process transparency, identifying drop-offs, and enabling accurate turnaround time (TAT) analysis. (Inshort: Track stage movements for both applicant and company with respective action takers (Recruiters + Their Leads)*
 
 <img width="1315" height="533" alt="image" src="https://github.com/user-attachments/assets/a1cf4767-2e28-49d3-bd40-08e73f1d489f" />
 
